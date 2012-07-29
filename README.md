@@ -1,4 +1,4 @@
-javac-compiler
+sgi-stl
 ==============
 
-compiler for simplified java written in C
+SGI STL 3.3
